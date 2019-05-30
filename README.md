@@ -1,1 +1,1 @@
-# containernetworking-plugins-notes
+# cni-notes

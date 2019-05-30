@@ -1,0 +1,6 @@
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/containernetworking/plugins
+[submodule "cni"]
+	path = cni
+	url = https://github.com/containernetworking/cni
